@@ -1,0 +1,27 @@
+body{
+  font-family: arial;
+  font-size:18px;
+  color:#333;
+  margin:0;
+  padding:0;
+}
+
+header{
+  height:130px;
+  padding-top:40px;
+  background:#f4f4f4;
+  text-align: center;
+  border-bottom:#333 3px solid;
+}
+
+h1#heading{
+  margin:0;
+  padding:0;
+}
+
+#container{
+  width:960px;
+  margin:20px auto;
+  padding:20px;
+  overflow:auto;
+}
